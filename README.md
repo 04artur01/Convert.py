@@ -24,7 +24,7 @@ python main.py
   Convert image from PNG to WEBP without resize
   Convert image from PNG to WEBP with watermark and resize
   Convert image from PNG to WEBP with resize
-4.Follow the instructions and provide any additional inputs as required.
+  4.Follow the instructions and provide any additional inputs as required.
 
 Configuration
 WATERMARK_PATH: Path to the watermark image file.
@@ -41,4 +41,3 @@ Artur G.
 
 Contact
 For any inquiries or feedback, feel free to contact 04artur1993@gmail.com.
-
