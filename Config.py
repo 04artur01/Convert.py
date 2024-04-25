@@ -33,9 +33,3 @@ def set_paths(watermark_path: str, input_dir: str, output_dir: str, out_width: i
     OUT_HEIGHT = out_height
 
 
-# Example usage:
-# set_paths(r"D:\Pharm Center\PHC photos end 1\watermark.png",
-#           r"D:\Pharm Center\PHC photos end 1\test",
-#           r"D:\Pharm Center\PHC photos end 1\test2",
-#           int(input("Insert output width\n")),
-#           int(input("Insert output height\n")))
