@@ -11,7 +11,7 @@ This project is designed to convert PNG images to WEBP format with various optio
 
 ## Installation
 
-1. Clone this repository to your local machine: `git clone https://github.com/04artur01/Convert.py`
+1. Clone this repository to your local machine: `git clone https://github.com/bearstArt/Convert.py`
 2. Install the required dependencies using pip: `pip install -r requirements.txt`
 3. Set up the project by providing necessary paths and dimensions in the configuration file or directly in the code.
 
